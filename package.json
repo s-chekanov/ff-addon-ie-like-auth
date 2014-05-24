@@ -1,0 +1,9 @@
+{
+  "name": "ie-like-auth",
+  "title": "IE Like HTTP-Authentication",
+  "id": "jid1-55inpk4fhdWmoA",
+  "description": "Support non-ISO-8859-1 characters for HTTP authentication. \nIt solve https://bugzilla.mozilla.org/show_bug.cgi?id=41489 bug. \nNow support just Windows-1251 (Cyrylic).",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
